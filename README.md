@@ -1,16 +1,31 @@
-## Hi there 👋
+#### Operating Systems I've Been Using
 
-Operating systems I use:
+* macOS
+* Fedora
+* NixOS
+* Windows
 
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
-![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=nixos&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-%230078d4.svg?style=flat&logo=windows-11&logoColor=white)
+#### Programming Languages I've Been Coding In
 
+* Python
+* Scala
+* Java
+* JavaScript
+* C
+* Assembly
+* TypeScript
+* Verilog
+* Swift
 
-Currently programming in:
+#### Other Technologies and Apps I'm Using
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+* OpenCode
 
+#### I'd Like to Deepen My Knowledge Of
+
+* TypeScript
+* Neovim
+* Raspberry Pi
 
 
 <!--
