@@ -19,6 +19,8 @@
 
 #### Other Technologies and Apps I'm Using
 
+* LaTeX
+* Visual Studio Code
 * OpenCode
 
 #### I'd Like to Deepen My Knowledge Of
