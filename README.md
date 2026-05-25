@@ -21,7 +21,12 @@
 
 * LaTeX
 * Visual Studio Code
+* Antigravity
 * OpenCode
+* Ghostty
+* tmux
+* UTM
+* llama.cpp
 
 #### I'd Like to Deepen My Knowledge Of
 
