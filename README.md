@@ -27,6 +27,7 @@
 * tmux
 * UTM
 * llama.cpp
+* Obsidian
 
 #### I'd Like to Deepen My Knowledge Of
 
