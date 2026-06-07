@@ -28,6 +28,8 @@
 * UTM
 * llama.cpp
 * Obsidian
+* Tailscale
+* Termius
 
 #### I'd Like to Deepen My Knowledge Of
 
