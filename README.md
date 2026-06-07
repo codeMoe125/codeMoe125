@@ -1,6 +1,7 @@
 #### Operating Systems I've Been Using
 
 * macOS
+* Ubuntu
 * Fedora
 * NixOS
 * Windows
